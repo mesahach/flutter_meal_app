@@ -1,12 +1,6 @@
-# meal_app
+This is a dynamic app for recording and managing meals based on categories(meals type).
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+It makes use of Provider for state managment and can be easily use for more complex and dynamic work
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
